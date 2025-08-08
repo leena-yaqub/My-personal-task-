@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Login/Register strings -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="logout">Logout</string>
+    <!-- App-wide -->
+    <string name="app_name">My Tasks</string>
+    <string name="empty_state">No tasks yet.\nTap + to add a new task.</string>
+
+    <!-- Dialog titles/buttons -->
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="save_task">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Content descriptions -->
+    <string name="desc_save_task">Save this task</string>
+
+    <!-- Item actions -->
+    <string name="delete_task">Delete Task</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Are you sure you want to delete "%1$s"?</string>
+
+    <!-- Input hints -->
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_due_date">Select date</string>
+
+    <!-- Validation -->
+    <string name="error_empty_fields">…</string>
+</resources>

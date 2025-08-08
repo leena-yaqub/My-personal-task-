@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+
+    <!-- Priority stripe colors -->
+    <color name="red">#FFCC00</color>      <!-- HIGH priority -->
+    <color name="orange">#FFA500</color>   <!-- MEDIUM priority -->
+    <color name="blue">#3399FF</color>     <!-- LOW priority -->
+
+    <!-- Material theme colors -->
+
+    <color name="blue_500">#03A9F4</color>
+    <color name="blue_700">#0288D1</color>
+    <color name="teal_200">#03DAC5</color>
+</resources>
